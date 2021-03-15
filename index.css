@@ -5,5 +5,28 @@ body {
   }
 /* Banner Custimization */
   .banner {
+   height: 100%;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
   }
+  /* Nav Button Custimization */
+  .button {
+    border: none;
+    color: black;
+    background-color: red;
+    padding: 50px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px 50px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.font1 {
+  font-family: 'Ravi Prakash', cursive;
+}
